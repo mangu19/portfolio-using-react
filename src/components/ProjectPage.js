@@ -13,9 +13,9 @@ const ProjectPage = () => {
           <p>Shoppinn</p>
           <p>
             <span>2022</span>
-            <a href="https://www.codinn.dev/article/ecommerce-website-in-reactjs">
+            {/* <a href="https://www.codinn.dev/article/ecommerce-website-in-reactjs">
               Tap to view
-            </a>
+            </a> */}
           </p>
         </div>
         <div className="project">
